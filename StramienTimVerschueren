@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="nl">
+	<head>
+		<meta charset="utf-8" >
+		<meta name="description" content="beschrijving van de webpagina" >
+		<meta name="keywords" content="trefwoorden, gescheiden, door, komma's">
+        <meta name="viewport" content="width=device-width, height=device-height" />
+		<title>Mijn eerste webpagina</title>
+
+	</head>
+
+	<body>
+        <h1>Hallo wereld!</h1>
+        <h2>niveau2</h2>
+        
+        
+        <p>Dit is een <em>alinea.</em> <br> <i>dit</i> <strong>gebruik</strong> je voor een<u> samenhangend stukje tekst</u> . Zoals je ziet plaats je hier niet zomaareen return in de tekst, omdat je niet weet hoe breed het scherm van de gebruiker is en dus ook genenkel idee hebben van waar de  </p> <p> Je moet opletten met het gebruik van &lt; in HTML </p>
+        
+        
+        
+        
+     
+        <h3>niveau3</h3>
+        <h4>niveau4</h4>
+        <h5>niveau5</h5>
+        <h6>niveau6</h6>
+
+   
+	</body>
+</html>
